@@ -90,4 +90,10 @@ python manage.py startapp myapp
 'myapp',
 
 
+Your django folder is inside Documents, as shown in your terminal output.
 
+In PowerShell
+
+Run:
+
+cd Documents\django
