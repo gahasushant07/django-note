@@ -84,7 +84,8 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-
+\\ to create superuser
+python manage.py createsuperuser
 
 \\ to create app
 python manage.py startapp myapp
